@@ -138,3 +138,11 @@ It also deepened my understanding of production-ready AI automation architecture
 
 Martin Emmanuel  
 Nuel Logics
+
+---
+
+# Connect With Me
+
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01736246aba051cc59)
+
+[![GitHub](https://img.shields.io/badge/GitHub-NuelLogics-181717?style=for-the-badge&logo=github)](https://github.com/NuelLogics)
