@@ -1,0 +1,14 @@
+# Environment Variables
+.env
+
+# n8n
+*.sqlite
+n8n_data/
+
+# Logs
+logs/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
